@@ -1,0 +1,1 @@
+Implementación completa de regresión lineal con distintas técnicas de ajuste (ecuación normal, scikit-learn, gradiente descendente). Incluye EDA para selección de features, comparación de modelos con métricas (MSE, RMSE, R², error de predicción) y análisis de overfitting, outliers y normalización.
