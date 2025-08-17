@@ -25,7 +25,7 @@ Fuente: *Quinlan, 1993*
 5. **peso (weight)** → continuo
 6. **aceleración** → continuo
 7. **año del modelo** → discreto multivalorado
-8. **origen** → discreto multivalorado
+8. **origen** → discreto multivalorado  (USA=1/Europe=2/Japan=3)
 9. **nombre del coche** → cadena (*única por instancia*)
 
 ### Valores faltantes
